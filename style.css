@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  font-size: 30vmin;
+  font-size: 20vmin;
 }
 
 section {
@@ -35,10 +35,4 @@ nav a {
 
 nav a.selected {
   color: #fff;
-}
-
-@media (max-width: 480px) {
-  h1 {
-    font-size: 20vmin;
-  }
 }
